@@ -2,6 +2,6 @@
 
 I'm Jenny.
 
-I'm a software developer from Newcastle 🇬🇧 and based in Toronto 🇨🇦, currently working for [Loopio](https://loopio.com/).
+I'm a Software Developer from Newcastle 🇬🇧 and based in Toronto 🇨🇦, currently working as Team Lead for [Loopio](https://loopio.com/).
 
-You can also find me on [LinkedIn](https://www.linkedin.com/in/jenny-graham-jones/) and [Twitter](https://twitter.com/jgjwrites/).
+You can also find me on [LinkedIn](https://www.linkedin.com/in/jenny-graham-jones/).
