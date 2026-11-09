@@ -2,6 +2,6 @@
 
 I'm Jenny.
 
-I'm a Software Developer from Newcastle 🇬🇧 and based in Toronto 🇨🇦, currently working as Staff Software Developer for [Loopio](https://loopio.com/). 
+I'm a Software Developer from Newcastle 🇬🇧 and based in Toronto 🇨🇦, currently working as Senior Backend Developer at Quo.
 
 You can also find me on [LinkedIn](https://www.linkedin.com/in/jenny-graham-jones/).
